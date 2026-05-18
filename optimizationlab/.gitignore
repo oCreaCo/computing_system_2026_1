@@ -1,0 +1,4 @@
+server.log
+grep-log
+log-gen
+*.o
